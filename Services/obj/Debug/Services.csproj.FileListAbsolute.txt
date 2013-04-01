@@ -1,0 +1,7 @@
+C:\Users\ValentinShevchenko\Desktop\App\Services\bin\Debug\Services.dll
+C:\Users\ValentinShevchenko\Desktop\App\Services\bin\Debug\Services.pdb
+C:\Users\ValentinShevchenko\Desktop\App\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\ValentinShevchenko\Desktop\App\Services\obj\Debug\Services.dll
+C:\Users\ValentinShevchenko\Desktop\App\Services\obj\Debug\Services.pdb
+C:\Users\ValentinShevchenko\Desktop\App\Services\bin\Debug\Interfaces.dll
+C:\Users\ValentinShevchenko\Desktop\App\Services\bin\Debug\Interfaces.pdb

@@ -1,0 +1,7 @@
+C:\Users\ValentinShevchenko\Desktop\App\Models\bin\Debug\Models.dll
+C:\Users\ValentinShevchenko\Desktop\App\Models\bin\Debug\Models.pdb
+C:\Users\ValentinShevchenko\Desktop\App\Models\bin\Debug\Interfaces.dll
+C:\Users\ValentinShevchenko\Desktop\App\Models\bin\Debug\Interfaces.pdb
+C:\Users\ValentinShevchenko\Desktop\App\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\ValentinShevchenko\Desktop\App\Models\obj\Debug\Models.dll
+C:\Users\ValentinShevchenko\Desktop\App\Models\obj\Debug\Models.pdb

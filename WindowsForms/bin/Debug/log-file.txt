@@ -1,0 +1,2 @@
+2013-03-27 15:24:15,480 [9] INFO  Common.Logger [(null)] - Form1 is running
+2013-03-27 15:29:48,006 [9] INFO  WindowsForms.Form1 [(null)] - firts

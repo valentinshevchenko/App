@@ -1,0 +1,8 @@
+C:\Users\ValentinShevchenko\Desktop\App\Common\bin\Debug\Common.dll
+C:\Users\ValentinShevchenko\Desktop\App\Common\bin\Debug\Common.pdb
+C:\Users\ValentinShevchenko\Desktop\App\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\ValentinShevchenko\Desktop\App\Common\obj\Debug\Common.dll
+C:\Users\ValentinShevchenko\Desktop\App\Common\obj\Debug\Common.pdb
+C:\Users\ValentinShevchenko\Desktop\App\Common\bin\Debug\Ninject.dll
+C:\Users\ValentinShevchenko\Desktop\App\Common\bin\Debug\Ninject.pdb
+C:\Users\ValentinShevchenko\Desktop\App\Common\bin\Debug\Ninject.xml

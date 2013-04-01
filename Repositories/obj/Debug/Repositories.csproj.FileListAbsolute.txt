@@ -1,0 +1,7 @@
+C:\Users\ValentinShevchenko\Desktop\App\Repositories\bin\Debug\Repositories.dll
+C:\Users\ValentinShevchenko\Desktop\App\Repositories\bin\Debug\Repositories.pdb
+C:\Users\ValentinShevchenko\Desktop\App\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\ValentinShevchenko\Desktop\App\Repositories\obj\Debug\Repositories.dll
+C:\Users\ValentinShevchenko\Desktop\App\Repositories\obj\Debug\Repositories.pdb
+C:\Users\ValentinShevchenko\Desktop\App\Repositories\bin\Debug\Interfaces.dll
+C:\Users\ValentinShevchenko\Desktop\App\Repositories\bin\Debug\Interfaces.pdb

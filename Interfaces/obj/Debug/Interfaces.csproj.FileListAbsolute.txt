@@ -1,0 +1,5 @@
+C:\Users\ValentinShevchenko\Desktop\App\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\ValentinShevchenko\Desktop\App\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\ValentinShevchenko\Desktop\App\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\ValentinShevchenko\Desktop\App\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\ValentinShevchenko\Desktop\App\Interfaces\obj\Debug\Interfaces.pdb

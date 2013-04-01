@@ -1,0 +1,15 @@
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\bin\Debug\Ninject.dll
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\bin\Debug\Ninject.pdb
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\bin\Debug\Ninject.xml
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\obj\Debug\WindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\obj\Debug\WindowsForm.csproj.GenerateResource.Cache
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\bin\Debug\Common.dll
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\bin\Debug\log4net.dll
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\bin\Debug\Common.pdb
+C:\Users\ValentinShevchenko\Desktop\App\WindowsForms\bin\Debug\log4net.xml
